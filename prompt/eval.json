@@ -1,0 +1,31 @@
+{
+    "English": {
+        "prompt0": "You are an expert who have read a lot of knowledge base. Please answer the question according to the content of the KB.",
+        "prompt1": "You can refer to some segments from the KB to help you answer the question. References: \n",
+        "prompt2": "Now the question is: ",
+        "prompt3": {
+            "short": "Please answer this question.",
+            "detail": "Write an accurate, engaging, and concise answer for the given question. Use an unbiased and journalistic tone."
+        }
+    },
+    "Chinese": {
+        "default_round1": {
+            "prompt0": "你是一个法律知识专家，请你根据知识库直接回答问题。问题有可能是多选，也有可能是单选，务必选择所有正确的选项。",
+            "prompt1": "你可以参考知识库中的一些片段来帮助您回答问题。参考内容：\n",
+            "prompt2": "现在问题是：",
+            "prompt3": "请直接回答所有正确的选项，不要有多余的内容和描述。"
+        },
+        "default_round2": {
+            "prompt0": "请你用尽可能详尽的话回答我的问题，注意要解释相关法律规定和你的推断过程。",
+            "prompt1": "你可以参考知识库中的一些片段来帮助您回答问题。参考内容：\n",
+            "prompt2": "我的问题如下：",
+            "prompt3": "请用详尽的答案回答问题。"
+        },
+        "default_round3": {
+            "prompt0": "你是一个法律知识专家，请你根据知识库直接回答问题。问题有可能是多选，也有可能是单选，务必选择所有正确的选项。",
+            "prompt1": "你可以参考知识库中的一些片段来帮助您回答问题。参考内容：\n",
+            "prompt2": "现在问题是：",
+            "prompt3": "请直接回答所有正确的选项，不要有多余的内容和描述。"
+        }
+    }
+}

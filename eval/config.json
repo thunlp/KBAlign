@@ -1,0 +1,23 @@
+[
+    {
+        "task": "base_qa",
+        "output_paths": [
+            "{result_dir}/wo_rag.jsonl",
+            "{result_dir}/wo_qe.jsonl",
+            "{result_dir}/kbada.jsonl"
+        ],
+        "base_model_path": "",
+        "base_llama_model_path": "",
+        "type": [
+            [
+                "llama"
+            ],
+            [
+                "llama",
+                "llama"
+            ]
+        ],
+        "chunk_size": 128,
+        "language": "English"
+    }
+]
