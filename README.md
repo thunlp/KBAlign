@@ -1,6 +1,6 @@
 # KBAlign: Efficient Self Adaptation on Specific Knowledge Bases
 
-This is the source code for [KBAlign: Efficient Self Adaptation on Specific Knowledge Bases](https://arxiv). Currently, the code comments are not perfect, and we will continue to supplement them.
+This is the source code for [KBAlign: Efficient Self Adaptation on Specific Knowledge Bases](https://arxiv.org/abs/2411.14790). Currently, the code comments are not perfect, and we will continue to supplement them.
 
 ## Introduction
 <div align="center">
